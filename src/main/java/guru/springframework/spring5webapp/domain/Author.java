@@ -64,8 +64,7 @@ public class Author {
                 "id=" + this.id +
                 ", firstName='" + this.firstName + '\'' +
                 ", lastName='" + this.lastName + '\'' +
-                ", books=" + this.books +
-                '}';
+                "}";
     }
 
     @Override
